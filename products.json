@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "الرجال من المريخ",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/Book1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "الأب الغني الأب الفقير",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/Book2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "قواعد الحياة ",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/Book3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "البؤساء",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/Book4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "تاريخ القراءة",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/Book5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "أغنى رجل في بابل",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/Book6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "الجبل السحري",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/Book7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "فن الحرب",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/Book8.jpg" } } }
+      }
+    }
+  ]
+}
